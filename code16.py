@@ -26,9 +26,9 @@ src = "url"  source(url/file name).
 
 alt = "text"  alt(hover) text . 
 
-width = "number"  line or image width by number or percentage
+# width = "number"  line or image width by number or percentage
 
-height = "number" line or image height by number or percentage
+# height = "number" line or image height by number or percentage
 
 border = "number"  border thickness 
 
