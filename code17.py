@@ -20,3 +20,21 @@ python inheritances
 
 x = Person("John", "Doe")
 x.printname()
+
+python 
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+    i+=1
+    
+ class Person:
+  def __init__(self, fname, iname):
+    self.firstname= fname
+    self.lastname = lname
+    
+    def printname(self):
+      print(self.firstname, self.lastname)
+      
+      
