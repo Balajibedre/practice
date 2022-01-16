@@ -17,3 +17,9 @@ web development (server-side),
 software development,
 mathematics,
 system scripting.
+
+
+Comments can be placed at the end of a line, and Python will ignore the rest of the line:
+
+Example
+print("Hello, World!") #This is a comment
